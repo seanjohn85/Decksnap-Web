@@ -1,0 +1,29 @@
+{
+  "name": "decksnap",
+  "version": "1.0.0",
+  "description": "Ca3 - Decksnap card game web beta",
+  "main": "server.js",
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seanjohn85/networksCa3.git"
+  },
+  "keywords": [
+    "card",
+    "game",
+    "client/server"
+  ],
+  "author": "John Kenny",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seanjohn85/networksCa3/issues"
+  },
+  "homepage": "https://github.com/seanjohn85/networksCa3#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "express": "^4.15.2",
+    "socket.io": "^1.7.3"
+  }
+}
